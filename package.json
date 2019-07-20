@@ -4,6 +4,16 @@
   "description": "A very simple react router that manages routes using regex",
   "main": "./lib/Router.js",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AkhileshNS/react-regex-router.git"
+  },
+  "keywords": ["react","javascript","regex","react routing"],
+  "author": "AkhileshNS",
+  "bugs": {
+    "url": "https://github.com/AkhileshNS/react-regex-router/issues"
+  },
+  "homepage": "https://github.com/AkhileshNS/react-regex-router#readme",
   "scripts": {
     "build": "webpack"
   },
