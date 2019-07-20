@@ -127,7 +127,7 @@ Generally speaking it is recommended to store currRoute in some central state ma
 | Property  | Type   | Default | Required | Info                                                                                                                                                                                                                                                                                           |
 |-----------|--------|---------|----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | currRoute | string | ""      | Yes      | Used to test against for determining the component to be rendered                                                                                                                                                                                                                              |
-| routes    | array  | []      | Yes      |  Used to pass a list of components and the regexps that will be used to determine which of them to render.    Each item in routes must be an object of the format:-  ```javascript {    name: RegExp,   component: ReactComponent // Can be functional or not,   props: {} // Optional   } ``` |
+| routes    | array  | []      | Yes      |  Used to pass a list of components and the regexps that will be used to determine which of them to render. |
 
 ## Please Note
 
