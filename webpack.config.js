@@ -1,7 +1,7 @@
 var path = require('path');
 
 module.exports = {
-  zmode: 'production',
+  mode: 'production',
   entry: './src/Router.jsx',
   output: {
     path: path.resolve('lib'),

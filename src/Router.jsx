@@ -27,7 +27,4 @@ const Router = props => {
   return res;
 }
 
-Router.propTypes = propTypes;
-Router.defaultProps = defaultProps;
-
 export default Router;
