@@ -1,6 +1,10 @@
 
 # React Regex Router
 
+![GitHub package.json version](https://img.shields.io/github/package-json/v/AkhileshNS/react-regex-router.svg)
+![GitHub issues](https://img.shields.io/github/issues/AkhileshNS/react-regex-router.svg)
+![GitHub](https://img.shields.io/github/license/AkhileshNS/react-regex-router.svg)
+
 react-regex-router is a very simple router component for React applications which uses regex to determine the component to be rendered
 
 ## Getting Started
