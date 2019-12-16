@@ -8,7 +8,12 @@
     "type": "git",
     "url": "git+https://github.com/AkhileshNS/react-regex-router.git"
   },
-  "keywords": ["react","javascript","regex","react routing"],
+  "keywords": [
+    "react",
+    "javascript",
+    "regex",
+    "react routing"
+  ],
   "author": "AkhileshNS",
   "bugs": {
     "url": "https://github.com/AkhileshNS/react-regex-router/issues"
